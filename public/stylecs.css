@@ -21,11 +21,11 @@ body{
 }
 
 .content{
-    width: 790px;
-    height: 60px;
+    width: 710px;
+    height: 100px;
     background-color: gold;
     margin-top: 40px;
-    margin-left: 70px;
+    margin-left: 120px;
 }
 
 .footer{
