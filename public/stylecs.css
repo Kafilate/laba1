@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: dimgrey;
+}
+
+.okno {
+    width: 950px;
+    margin: auto;
+}
+
+.header{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.content{
+    width: 790px;
+    height: 60px;
+    background-color: gold;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.footer{
+    width: 905px;
+    height: 150px;
+    background-color: gold;
+    margin: 25px;
+}
+
+.rightbox{
+    width: 200px;
+    height: 100%;
+    background-color: gold;
+    margin: 20px;
+}
+
+.onebox{
+    width: 200px;
+    height: 100%;
+    background-color: gold;
+    margin: 20px;
+}
